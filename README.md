@@ -9,8 +9,8 @@
 
  <p align="center"> 
 <img src="https://files.catbox.moe/hf2mws.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/q63xs7.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/33qxk7.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/istxsc.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/5ew9bk.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/pilp07.gif" width="170" height="60" border="0"/> 
- <img src="https://files.catbox.moe/r9csqw.gif" width="170" height="60" border="0"/>  <img src="https://files.catbox.moe/9921fv.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/qy0too.gif" width="170" height="60" border="0"/>
- <img src="https://files.catbox.moe/r0uzyu.gif" width="170" height="60" border="0"/>
+ <img src="https://files.catbox.moe/r9csqw.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/9921fv.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/qy0too.gif" width="170" height="60" border="0"/>
+ <img src="https://files.catbox.moe/r0uzyu.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/62ezpp.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/zqkykc.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/gglt7j.gif" width="170" height="60" border="0"/>
  
 <p align="center">  
  <img src="https://files.catbox.moe/fq12jn.gif" width="170" height="60" border="0"/> 
@@ -18,7 +18,6 @@
  <img src="https://files.catbox.moe/zu6y7d.gif" width="170" height="60" border="0"/> 
 
 
- signs blinkies
  <p align="center"> 
 <img src="https://files.catbox.moe/upk4lt.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/u56n3k.gif" width="170" height="60" border="0"/>  <img src="https://files.catbox.moe/46k519.gif" width="170" height="60" border="0"/>  <img src="https://files.catbox.moe/g6zxdi.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/atyo23.gif" width="170" height="60" border="0"/>  <img src="https://files.catbox.moe/gtsowz.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/ja4gyi.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/3zrvw2.gif" width="170" height="60" border="0"/>  <img src="https://files.catbox.moe/gcihrf.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/90xoon.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/gzgw7m.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/8lufqr.gif" width="170" height="60" border="0"/>  <img src="https://files.catbox.moe/brcr5g.gif" width="170" height="60" border="0"/>  <img src="https://files.catbox.moe/jx9yb7.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/9bq2hd.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/kvws2f.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/uel052.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/uoufxx.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/zuqjay.gif" width="170" height="60" border="0"/>  <img src="https://files.catbox.moe/3e96xl.gif" width="170" height="60" border="0"/>  <img src="https://files.catbox.moe/8auven.gif" width="170" height="60" border="0"/>  <img src="https://files.catbox.moe/6bin3s.gif" width="170" height="60" border="0"/>  <img src="https://files.catbox.moe/z4yfud.gif" width="170" height="60" border="0"/>
 
