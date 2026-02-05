@@ -1,3 +1,7 @@
+
+## my epic stamp / blinkie collection hell yeah
+
+ 
 <p align="center">
  <img src="https://files.catbox.moe/wxrhcj.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/9rekvp.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/zb1rkd.gif" width="170" height="60" border="0"/> <img src="https://files.catbox.moe/vjo1be.gif" width="170" height="60" border="0"/>
  
